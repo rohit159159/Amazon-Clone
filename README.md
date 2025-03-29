@@ -1,1 +1,1 @@
-# Amazon-Clone
+# Amazon-Clone project! 🚀 This is a frontend-only replica of Amazon’s homepage, built using pure HTML & CSS. It’s a great project for beginners to practice structuring web pages and styling them to look professional.
