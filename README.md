@@ -2,7 +2,7 @@
 This project is a fully responsive Amazon Clone Website built using HTML5 and CSS3. It aims to replicate the user interface of the Amazon homepage to practice and showcase front-end development skills. The layout includes a dynamic navigation bar, interactive search bar, hero section, product categories, and a detailed footer. The design closely follows Amazon's aesthetics and structure, providing a modern, clean, and familiar user experience.
 
 📸 Screenshots
-(Include screenshots of your webpage here, like the header, product grid, and footer.)
+![image](https://github.com/rohit159159/Amazon-Clone/blob/80de4cb8ca1f5dddf250d8f38f07c7916263c184/Screenshot-Amazon-clone.png)
 
 # 🔧 Technologies Used
 
